@@ -12,11 +12,11 @@ with open('LICENSE') as f:
 setup(
     name='sample',
     version='0.0.1',
-    description='Sample package for Python-Guide.org',
+    description='Personal Sample package based on Python-Guide.org',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Chris Baker',
+    author_email='gaoler@electronicpanopticon.com',
+    url='https://github.com/folkengine/samplemod',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
